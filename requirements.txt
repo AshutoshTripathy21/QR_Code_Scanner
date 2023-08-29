@@ -1,0 +1,10 @@
+opencv-python
+numpy
+
+#Install the above libraries using below commands in terminal
+
+#pip install opencv-python
+#pip install numpy
+
+#to run the file in terminal : python main.py
+
